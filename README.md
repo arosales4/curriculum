@@ -29,7 +29,7 @@
  
  ![Imagen local](C:\Users\albanrosales\Pictures\Albán Rosales\IMG_0659.JPG)
  
-<img src="C:\Users\albanrosales\Pictures\Albán Rosales\IMG_0659.JPG" width="100" heidht="">
+<img src="IMG_0659.JPG" width="100" heidht="">
  
 # Email: albanrosales@hotmail.com
 
